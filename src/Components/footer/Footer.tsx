@@ -38,7 +38,7 @@ export default function Footer() {
 
         <div className="flex flex-col gap-3 md:flex-row items-center justify-center sm:justify-between">
           <p className="">
-            Built with ❤ by Jessica, <span>{year}</span>
+            Built with ❤ by Jessica | <span>{year}</span>
           </p>
 
           {/* Socials */}
